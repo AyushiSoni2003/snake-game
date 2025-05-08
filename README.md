@@ -1,6 +1,6 @@
 # Snake Game in Python
 
-This is a simple Snake game created using Python and the `turtle` module. The objective of the game is to control the snake to eat food that appears on the screen, which causes the snake to grow in length and increase the score. The game ends when the snake collides with the boundaries of the screen or its own body.
+This is a classic Snake game created using Python and the `turtle` module. The objective of the game is to control the snake to eat food that appears on the screen, which causes the snake to grow in length and increase the score. The game ends when the snake collides with the boundaries of the screen or its own body.
 
 ## Game Features
 
@@ -26,4 +26,5 @@ This is what the game looks like while playing.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/snake-game.git
+   git clone [https://github.com/AyushiSoni2003/snake-game.git](https://github.com/AyushiSoni2003/snake-game.git)
+   ```
