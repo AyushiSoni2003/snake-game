@@ -26,5 +26,5 @@ This is what the game looks like while playing.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone [https://github.com/AyushiSoni2003/snake-game.git](https://github.com/AyushiSoni2003/snake-game.git)
+   git clone https://github.com/AyushiSoni2003/snake-game.git
    ```
